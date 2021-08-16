@@ -1,5 +1,5 @@
 # Git_Course
-Git Course Fron Zero Web School
+Git Course From Zero Web School
 
 ## Project Notes
 
